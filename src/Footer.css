@@ -1,0 +1,28 @@
+/* Footer.css */
+.app-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+.app-footer p {
+    margin: 0;
+}
+
+.app-footer nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+.app-footer nav ul li {
+    margin-left: 20px;
+}
+
+.app-footer nav ul li a {
+    color: white;
+    text-decoration: none;
+}
